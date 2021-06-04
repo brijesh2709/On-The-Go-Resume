@@ -3,7 +3,9 @@
 # Overview
 
 # Implementation Flow
-![](images/Page1.JPG)    [](images/PersonalInfo.JPG)
+![](images/Page1.JPG)    
+
+![](images/PersonalInfo.JPG)
 
 ![](images/ExperienceInfo.JPG)
 
