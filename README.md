@@ -1,8 +1,8 @@
 # On The Go Resume - Mobile Application
 
-# Overview
+## Overview
 
-# Implementation Flow
+## Implementation Flow
 ![](images/Page1.JPG)    
 
 ![](images/PersonalInfo.JPG)
